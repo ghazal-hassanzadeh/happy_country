@@ -34,7 +34,8 @@ Happiness Table --> Well-being indicators for each country.
 Economy Table --> Economic indicators for the same countries.
 
 Linked via the shared Country field, allowing us to explore relationships using SQL JOINs.
-![alt text](image.png)
+![Alt text](./ERD_photo.png)
+
 
 
 ## Data Preparation
